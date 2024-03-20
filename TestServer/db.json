@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "SeanPauly",
+      "password": "password123"
+    }
+  ],
+  "portfolio": {
+    "name": "Sean Pauly",
+    "grade": "Grade 12",
+    "academics": [
+      {
+        "icon": "Icons.school",
+        "title": "GPA",
+        "value": "3.8"
+      },
+      {
+        "icon": "Icons.score",
+        "title": "SAT Score",
+        "value": "1400"
+      },
+      {
+        "icon": "Icons.calculate",
+        "title": "Math Competitions",
+        "value": "Regional Winner"
+      }
+    ],
+    "volunteerism": [
+      {
+        "icon": "Icons.food",
+        "title": "Food Bank Volunteer",
+        "hours": "50",
+        "description": "Organized food drives and helped distribute food to those in need."
+      },
+      {
+        "icon": "Icons.clean",
+        "title": "Beach Cleanup",
+        "hours": "30",
+        "description": "Led a team of volunteers to clean local beaches during the summer."
+      }
+    ],
+    "workexperience": [
+      {
+        "icon": "Icons.work",
+        "role": "Intern",
+        "company": "Tech StartUp",
+        "duration": "3 months",
+        "description": "Assisted in developing a mobile application for environmental awareness."
+      },
+      {
+        "icon": "Icons.work",
+        "role": "Part-time Tutor",
+        "company": "Local Tutoring Service",
+        "duration": "6 months",
+        "description": "Provided tutoring in mathematics and science to high school students."
+      }
+    ],
+    "extracurriculars": [
+      {
+        "icon": "Icons.work",
+        "title": "Debate Club",
+        "position": "President",
+        "years": "2",
+        "description": "Led the school's debate club to nationals, improving team's overall performance."
+      },
+      {
+        "icon": "Icons.work",
+        "title": "Science Olympiad",
+        "position": "Team Member",
+        "years": "3",
+        "description": "Competed in state-level Science Olympiad competitions, specializing in astronomy and earth science."
+      }
+    ],
+    "achievements": [
+      {
+        "icon": "Icons.trophy",
+        "title": "Science Fair Winner",
+        "year": "2022",
+        "description": "Awarded first place in regional science fair for a project on renewable energy solutions."
+      },
+      {
+        "icon": "Icons.trophy",
+        "title": "AP Scholar with Distinction",
+        "year": "2021",
+        "description": "Received recognition for outstanding performance on Advanced Placement exams."
+      },
+      {
+        "icon": "Icons.trophy",
+        "title": "Math Competition Champion",
+        "year": "2022",
+        "description": "Awarded first place in regional science fair for a project on renewable energy solutions."
+      },
+      {
+        "icon": "Icons.trophy",
+        "title": "Spelling Bee Champion",
+        "year": "2023",
+        "description": "Received recognition for outstanding performance on Advanced Placement exams."
+      }
+    ],
+    "projects": [
+      {
+        "icon": "Icons.folder",
+        "title": "Eco-Friendly App",
+        "year": "2023",
+        "description": "Developed an app that provides users with daily tips on living a more eco-friendly lifestyle."
+      },
+      {
+        "icon": "Icons.folder",
+        "title": "Math Tutoring Website",
+        "year": "2022",
+        "description": "Created an online platform for students to find free resources and tutoring for math subjects."
+      },
+      {
+        "icon": "Icons.folder",
+        "title": "StudyCV Mobile APP",
+        "year": "2024",
+        "description": "Created an online platform for students to find free resources and tutoring for math subjects."
+      }
+    ]
+  }
+}

@@ -20,13 +20,9 @@ StudyCV is a dynamic mobile application designed to empower high school students
 
 4. **Privacy Settings:** StudyCV offers control over portfolio visibility. Students can opt to share their achievements publicly, selectively, or keep them private.
 
-5. **Templates and Customization:** Customizable templates for each section empower students to design their portfolio with a touch of individuality.
-
 6. **Sharing and Networking:** Students can seamlessly share their portfolios with colleges, potential employers, mentors, and family members through unique portfolio links. The app also facilitates networking by suggesting connections based on shared interests or activities.
 
 7. **Reflections and Descriptions:** Each portfolio item can be supplemented with a reflection or description, allowing students to provide context and personal insights.
-
-8. **Secure Cloud Storage:** The app ensures secure cloud storage for portfolio items, ensuring valuable records and memories are safe.
 
 9. **Effortless Updates:** As students continue to achieve and engage in various activities, they can conveniently update their portfolio to reflect their ongoing accomplishments.
 
@@ -38,3 +34,5 @@ StudyCV is a dynamic mobile application designed to empower high school students
 - **Networking:** The app encourages students to connect with peers, mentors, and potential collaborators who share similar interests.
 
 StudyCV serves as a digital vault for students to artistically portray their high school legacy, leaving a lasting impression on their educational and professional trajectories.
+
+### App Usage
