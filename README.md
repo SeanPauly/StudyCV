@@ -45,6 +45,8 @@ Ensure you have the following installed:
 - Flutter (ensure it's the latest version by running `flutter upgrade`)
 - Android Studio or Visual Studio Code with the Flutter plugin installed
 - Git
+- Node.js installed on your machine (visit [Node.js](https://nodejs.org) to download and install)
+- npm (Node Package Manager), which comes with Node.js
 
 ### Installation
 
@@ -54,21 +56,25 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/SeanPauly/StudyCV.git
-
 2. **Navigate to the project directory**
    
    Change into the project directory:
    
    ```bash
    cd StudyCV
-
 3. **Install Dependencies**
 
    Fetch and install the project dependencies:
 
    ```bash
    flutter pub get
+### Running the Server
+1. **Navigate to the server directory and run the server**
 
+   ```bash
+   cd TestServer
+   node app.js
+   cd ..
 ### Running the App
 
 #### On an Android Emulator
@@ -83,7 +89,6 @@ Ensure you have the following installed:
 
    ```bash
    flutter run
-
 #### On a Physical Device
 
 1. **Connect your device**
