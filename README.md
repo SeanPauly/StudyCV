@@ -35,4 +35,64 @@ StudyCV is a dynamic mobile application designed to empower high school students
 
 StudyCV serves as a digital vault for students to artistically portray their high school legacy, leaving a lasting impression on their educational and professional trajectories.
 
-### App Usage
+## App Usage
+This guide will help you get StudyCV up and running on your local development environment.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Flutter (ensure it's the latest version by running `flutter upgrade`)
+- Android Studio or Visual Studio Code with the Flutter plugin installed
+- Git
+
+### Installation
+
+1. **Clone the StudyCV repository**
+
+   Use Git to clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/SeanPauly/StudyCV.git
+
+2. **Navigate to the project directory**
+   
+   Change into the project directory:
+   
+   ```bash
+   cd StudyCV
+
+3. **Install Dependencies**
+
+   Fetch and install the project dependencies:
+
+   ```bash
+   flutter pub get
+
+### Running the App
+
+#### On an Android Emulator
+
+1. **Open Android Studio and start an emulator**
+
+   Make sure you have an Android emulator set up and running. You can manage your emulators via the AVD Manager in Android Studio.
+
+2. **Run the app**
+
+   Execute the following command in your terminal within the project directory:
+
+   ```bash
+   flutter run
+
+#### On a Physical Device
+
+1. **Connect your device**
+
+   Connect your Android or iOS device to your computer via USB. Ensure you have developer mode and USB debugging enabled on your device.
+
+2. **Run the app**
+
+   With your device connected, run the app by executing the following command in your terminal:
+
+   ```bash
+   flutter run
